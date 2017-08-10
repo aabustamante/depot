@@ -11,3 +11,10 @@ two:
   description: MyText
   image_url: lorem.jpg
   price: 9.99
+
+ruby:
+ title: Programming Ruby 2.4.1
+ description:
+  Ruby Ruby Ruby Ruby.. titiri ti ti ti...
+ price: 49.50
+ image_url: lorem.jpg
